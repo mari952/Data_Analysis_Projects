@@ -37,13 +37,17 @@ View an interactive version of the published Power BI report [here](https://app.
 ## Screenshots
 
 ![Overview](/Power_BI_Case_Study_Job_Postings/Images/Overview.png)
+
 *Shows the overall job listings in the data sector and lists the jobs specified in the problem statement. It also shows a comparative analysis of the popularity and demand of the specified jobs across timelines. It also tries to narrow down the industries in which this jobs are popular*
 
 ![Data Analyst Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DA.png)
+
 *Shows an overview of the Data Analyst Job sector, focusing primarily on the popular and in demand skills*
 
 ![Data Engineer Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DE.png)
+
 *Shows an overview of the Data Engineer Job sector, focusing primarily on the popular and in demand skills*
 
 ![Data Scientist Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DS.png)
+
 *Shows an overview of the Scientist Job sector, focusing primarily on the popular and in demand skills*
