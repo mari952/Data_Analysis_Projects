@@ -1,4 +1,4 @@
-# Excel Project: Case Study - Job Posting Dataset
+# Excel Project: Case Study - Airbnb Dataset
 
 This repository contains an Excel project focused on analyzing a dataset related to Airbnb listings. The project aims to derive insights and visualize key metrics using pivot tables and dashboards in Excel.
 
@@ -17,25 +17,25 @@ The original Dataset was messy and lacked describing appropriate information. Bu
 
 Variables Names and Descriptions are:
 
-`City`: Name of the City
-`Price`: Price of Airbnb
-`Day`: If it is a weekday or weekend
-`Room Type`: Type or Airbnb - Entire Apt, Private Room, Shared Room
-`Share Room`: If the Room in Airbnb is shared by anyone
-`Private Room`: If the Stay has a Private room available
-`Person Capacity`: The Person Capacity of Airbnb
-`Superhost`: If the Airbnb host is Super Host or not
-`Multiple Rooms`: If the Airbnb has multiple rooms (2-4) rooms
-`Business`: If the Business has more than 4 offers
-`Cleanliness Rating`: Cleanness Ratings of the Places
-`Guest Satisfaction`: Guest Satisfaction Score they left
-`Bedrooms`: Number of Bedrooms in the facility
-`City Center (km)`: Distance to the center of the City from the staying place
-`Metro Distance (km)`: Distance to the Metro Service from the staying place
-`Attraction Index`: Attraction Index of the Place
-`Normalised Attraction Index`: Normalized value of the Attraction Index
-`Restaurant Index`: Restaurant Index of the Place
-`Normalised Restaurant Index`: Normalized value of the Restaurant Index
+1. `City`: Name of the City
+2. `Price`: Price of Airbnb
+3. `Day`: If it is a weekday or weekend
+4. `Room Type`: Type or Airbnb - Entire Apt, Private Room, Shared Room
+5. `Share Room`: If the Room in Airbnb is shared by anyone
+6. `Private Room`: If the Stay has a Private room available
+7. `Person Capacity`: The Person Capacity of Airbnb
+8. `Superhost`: If the Airbnb host is Super Host or not
+9. `Multiple Rooms`: If the Airbnb has multiple rooms (2-4) rooms
+10. `Business`: If the Business has more than 4 offers
+11. `Cleanliness Rating`: Cleanness Ratings of the Places
+12. `Guest Satisfaction`: Guest Satisfaction Score they left
+13. `Bedrooms`: Number of Bedrooms in the facility
+14. `City Center (km)`: Distance to the center of the City from the staying place
+15. `Metro Distance (km)`: Distance to the Metro Service from the staying place
+16. `Attraction Index`: Attraction Index of the Place
+17. `Normalised Attraction Index`: Normalized value of the Attraction Index
+18. `Restaurant Index`: Restaurant Index of the Place
+19. `Normalised Restaurant Index`: Normalized value of the Restaurant Index
 
 ## Excel Files
 
@@ -45,18 +45,15 @@ Variables Names and Descriptions are:
 
 ## Screenshots
 
-![Overview](/Power_BI_Case_Study_Job_Postings/Images/Overview.png)
+![Overview](/Excel_Case_Study_Airbnb/Images/Overview.png)
 
-*Shows the overall job listings in the data sector and lists the jobs specified in the problem statement. It also shows a comparative analysis of the popularity and demand of the specified jobs across timelines. It also tries to narrow down the industries in which this jobs are popular*
+*Shows the overall property listings across Europe, with a short overview of the romm types price and satisfaction analysis*
 
-![Data Analyst Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DA.png)
+![Listing Analysis](/Excel_Case_Study_Airbnb/Images/Listing.png)
 
-*Shows an overview of the Data Analyst Job sector, focusing primarily on the popular and in demand skills*
+*Shows an overview of the listing types across Europe, focusing primarily on the Superhost status listings and different Business type listings in terms of price, guest satisfaction and cleanliness rating*
 
-![Data Engineer Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DE.png)
+![Statistical Analysis](/Excel_Case_Study_Airbnb/Images/st.png)
 
-*Shows an overview of the Data Engineer Job sector, focusing primarily on the popular and in demand skills*
+*Regression Analysis, hypothesis testing and correlation analysis on different factors affecting guest satisfaction*
 
-![Data Scientist Job Analysis](/Power_BI_Case_Study_Job_Postings/Images/DS.png)
-
-*Shows an overview of the Scientist Job sector, focusing primarily on the popular and in demand skills*
