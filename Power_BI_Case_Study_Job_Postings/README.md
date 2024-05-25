@@ -1,4 +1,4 @@
-# Power BI Project: SQL Case Study - Job Posting Dataset
+# Power BI Project: Case Study - Job Posting Dataset
 
 This repository contains a Power BI project focused on analyzing a dataset related to Job Postings. The project aims to derive insights and visualize key metrics using Power BI reports and dashboards.
 
